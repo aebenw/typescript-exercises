@@ -1,0 +1,14 @@
+{
+    "name": "decorate",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc && lite-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.4.0"
+    }
+}
