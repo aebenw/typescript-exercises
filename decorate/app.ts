@@ -15,13 +15,14 @@ class Person {
 
 // Factory 
 
-function logging(value: boolean){
-    return  dec 
-}
+// function logging(value: boolean){
+//     if(value) return dec 
+// }
+// this depreciated 
+// @logging(true)
+// class Car {
+//     constructor() {
+//         console.log("goodbye")
+//     }
+// }
 
-@logging(true)
-class Car {
-    constructor() {
-        console.log("goodbye")
-    }
-}
