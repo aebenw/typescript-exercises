@@ -1,2 +1,5 @@
-*/node_modules
-package-lock.json
+/class/node_modules
+/decorate/node_modules
+/generic/node_modules
+/interface/node_modules
+/one/node_modules
